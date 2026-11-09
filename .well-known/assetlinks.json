@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.raptor4375.royaumesether",
+    "sha256_cert_fingerprints": [
+      "10:A6:D4:A6:70:BB:45:34:0D:33:42:1A:1A:DF:34:2B:1B:F0:C5:7E:D3:F8:6D:7E:47:6B:0B:6B:BE:C6:A0:5D"
+    ]
+  }
+}]
