@@ -4,7 +4,8 @@
     "namespace": "android_app",
     "package_name": "com.raptor4375.royaumesether",
     "sha256_cert_fingerprints": [
-      "10:A6:D4:A6:70:BB:45:34:0D:33:42:1A:1A:DF:34:2B:1B:F0:C5:7E:D3:F8:6D:7E:47:6B:0B:6B:BE:C6:A0:5D"
+      "10:A6:D4:A6:70:BB:45:34:0D:33:42:1A:1A:DF:34:2B:1B:F0:C5:7E:D3:F8:6D:7E:47:6B:0B:6B:BE:C6:A0:5D",
+      "35:28:81:72:F5:E1:D7:AA:D7:6E:34:99:E8:18:B8:FA:33:82:9E:5A:21:97:4E:4C:06:81:05:43:63:01:CC:4A"
     ]
   }
 }]
